@@ -18,4 +18,4 @@ This project is a simple yet powerful application designed to validate grammar, 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/mrunmayeek25/Recursive-Decent-Parser.git
+git clone https://github.com/rishiimaheshwari/Recursive-Decent-Parser-.git
